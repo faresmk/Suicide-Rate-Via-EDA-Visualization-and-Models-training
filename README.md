@@ -39,5 +39,8 @@ In this section, we present the results obtained from our analysis. We discuss t
 In conclusion, this notebook provides a comprehensive analysis of suicide rates using EDA, visualization, and machine learning techniques. By understanding the factors contributing to the increase in suicide rates globally.
 
 This project was completed by *Mohamed Fares Mekaoussi*.
-## Contact: 
-m.f.mekaoussi@gmail.com.
+
+## Submitted By:
+Mohamed Fares Mekaoussi
+
+**Email:** m.f.mekaoussi@gmail.com.
